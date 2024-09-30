@@ -1,0 +1,14 @@
+/Users/chukwuebuka/Native/APPP/bin/Debug/net8.0/APPP
+/Users/chukwuebuka/Native/APPP/bin/Debug/net8.0/APPP.deps.json
+/Users/chukwuebuka/Native/APPP/bin/Debug/net8.0/APPP.runtimeconfig.json
+/Users/chukwuebuka/Native/APPP/bin/Debug/net8.0/APPP.dll
+/Users/chukwuebuka/Native/APPP/bin/Debug/net8.0/APPP.pdb
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.AssemblyInfoInputs.cache
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.AssemblyInfo.cs
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.csproj.CoreCompileInputs.cache
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.dll
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/refint/APPP.dll
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.pdb
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/APPP.genruntimeconfig.cache
+/Users/chukwuebuka/Native/APPP/obj/Debug/net8.0/ref/APPP.dll
